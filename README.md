@@ -1,9 +1,6 @@
 # 👋 Joseph Servigne
 
-### 🧠 AI Engineer | Machine Learning Systems | Autonomous Algorithms
-
-As an AI engineer, I design and build intelligent systems that operate reliably in complex environments.  
-My work focuses on applied machine learning, algorithmic design, and real-time system behavior.  
+### 🧠 AI Engineer
 
 ---
 
