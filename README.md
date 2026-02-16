@@ -12,7 +12,7 @@ I design and implement intelligent systems with a focus on robustness, real-time
 Autonomous exploration in a 2D PyBullet simulation using a simplified FUEL algorithm.
 
 <p align="center">
-  <img src="images/drone_demo.gif" width="600"/>
+  <img src="images/drone.gif" width="600"/>
 </p>
 
 - Reimplemented exploration planning logic
