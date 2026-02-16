@@ -1,68 +1,55 @@
-# Joseph Servigne  
-AI Engineer | Applied Machine Learning | Autonomous Systems  
+# 👋 Joseph Servigne
 
-I design and implement intelligent systems with a focus on robustness, real-time behavior, and algorithmic efficiency.
+### 🧠 AI Engineer | Machine Learning Systems | Autonomous Algorithms
+
+As an AI engineer, I design and build intelligent systems that operate reliably in complex environments.  
+My work focuses on applied machine learning, algorithmic design, and real-time system behavior.  
+
+I am particularly interested in model robustness, autonomous exploration, and scalable AI-driven architectures — building systems that are not only intelligent, but dependable.
 
 ---
 
-## 🔬 Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
 
-### 🤖 AI Drone Exploration (FUEL Algorithm)
+---
 
-Autonomous exploration in a 2D PyBullet simulation using a simplified FUEL algorithm.
+## 🛠 Languages & Tools
 
-<p align="center">
-  <img src="images/drone.gif" width="600"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,php,postgres,docker,git,linux" />
 </p>
 
-- Reimplemented exploration planning logic
-- Optimized frontier detection
-- Improved simulation stability
-
-**Tech:** Python, PyBullet
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,nodejs,symfony" />
+</p>
 
 ---
+
+## 🔬 Focus Areas
+
+- Large Language Models (LLMs)
+- AI Safety & Robustness
+- Reinforcement Learning
+- Autonomous Systems
+- Backend Architecture for AI Applications
+- Real-Time Systems
+
+---
+
+## 🚀 Selected Projects
+
+### 🤖 Autonomous Drone Exploration
+Reimplemented and optimized the FUEL algorithm in a PyBullet simulation environment to improve exploration efficiency and stability.
 
 ### 🔎 LLM Safety Evaluation
+Extended a vulnerability testing framework to analyze adversarial tool-use risks in open-source language models.
 
-Evaluation of vulnerabilities in open-source LLMs within adversarial tool-integrated systems.
-
-<p align="center">
-  <img src="images/llm_demo.gif" width="600"/>
-</p>
-
-- Extended ToolSword framework
-- Tested adversarial tool-use scenarios
-- Analyzed attack surfaces and model weaknesses
-
-**Tech:** Python, LLM APIs
-
----
-
-### 🎮 Networked Multiplayer Game
-
-Real-time multiplayer Bomberman game with client-server architecture.
-
-<p align="center">
-  <img src="images/game_demo.gif" width="600"/>
-</p>
-
-- Implemented synchronized state management
-- Built real-time networking layer
-- Managed concurrent client sessions
-
-**Tech:** C, Socket Programming
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, C, PHP  
-**ML:** PyTorch, Keras, Scikit-Learn  
-**Backend:** Symfony, PostgreSQL  
-**Tools:** Git, Docker  
+### 🎮 Real-Time Multiplayer System
+Developed a networked client-server game architecture with synchronized state management.
 
 ---
 
 ## 📫 Contact
-- LinkedIn: [your-link]
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: your.email@example.com
