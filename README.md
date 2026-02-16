@@ -14,9 +14,5 @@ My work focuses on applied machine learning, algorithmic design, and real-time s
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,php,postgres,docker,git,linux" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=,sklearn,react,nodejs,symfony" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,php,postgres,docker,git,linux,sklearn,react,nodejs,symfony" />
 </p>
